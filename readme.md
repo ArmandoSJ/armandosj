@@ -1,7 +1,6 @@
 #¡Hello Everyone!
 
-My name is Armando, I'm from Mexico And Currently i'm working as Software Development in a company 
-I am starting to make open source project
+My name is Armando, I'm from Mexico. I’m currently working as a Software Developer in a Company. I’m starting to make open source projects.
 
 I love Java, Flutter, Kotlin and C#.
 
