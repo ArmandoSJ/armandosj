@@ -1,8 +1,8 @@
-# ¡Hello Everyone!
+# ¡Welcome to my profile!
 
-My name is Armando, I'm from Mexico. I’m currently working as a Software Developer in a Company. I’m starting to make open source projects.
+Hello, My name is Armando, I'm from Mexico. I’m currently working as a Full stack Developer. I’m starting to make open source projects.
 
-I love Java, Flutter, Kotlin and C#.
+My favorite programming languages are Java, golang, Kotlin, and typescript.
 
 ## Skills
 * Mobile development With Kotlin and Flutter
