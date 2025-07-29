@@ -6,50 +6,9 @@
 <p style="text-align: justify;">I'm a software geek with a knack for coding, design, and all things Agile (especially Scrum). Whether I'm diving into new projects or tinkering with existing code, I bring a blend of creativity and attention to detail. You'll often find me lost in the world of debugging, crafting error-free solutions while sipping on copious amounts of coffee. I'm on the lookout for a fun tech company where I can unleash my coding wizardry and be part of something awesome.</p>
 
 **💻Tech stack at work:**
-
-<img 
-  src="./images/angular.png"
-  alt="Angular"
-  height="40"/>
-<img 
-  src="./images/vue.png"
-  alt="vue"
-  height="36"/>
-
-<img 
-  src="./images/spring.png"
-  alt="spring"
-  height="40"/>
-<img 
-  src="./images/java.svg"
-  alt="java"
-  height="40"/>
-<img 
-  src="./images/python.svg"
-  alt="python"
-  height="40"/>
-<img 
-  src="./images/ts.svg"
-  alt="ts"
-  height="40"/>
-
-<img 
-  src="./images/docker.svg"
-  alt="docker"
-  height="40"/>
-<img 
-  src="./images/redis.svg"
-  alt="redis"
-  height="40"/>
-<img 
-  src="./images/jenkins.png"
-  alt="jenkins"
-  height="40"/>
-
-<img 
-  src="./images/oracle.svg"
-  alt="oracle"
-  height="40"/>
+ Frontend | Backend | Tools & DevOps | Database |
+----------|---------|----------------|----------|
+<img src="./images/angular.png" height="40"/> <img src="./images/vue.png" height="36"/> | <img src="./images/spring.png" height="40"/><img src="./images/java.svg" height="40"/><img src="./images/python.svg" height="40"/><img src="./images/ts.svg" height="40"/>|<img src="./images/docker.svg" height="40"/> <img src="./images/redis.svg" height="40"/> <img src="./images/jenkins.png" height="40"/>|<img src="./images/oracle.svg" height="40"/>
 
 ### Skills
 
