@@ -8,7 +8,7 @@
 **💻Tech stack at work:**
  Frontend | Backend | Tools & DevOps | Database 
 ----------|---------|----------------|----------
-<img src="./images/angular.png" height="28"/> <img src="./images/vue.png" height="25"/> | <img src="./images/spring.png" height="28"/> <img src="./images/java.svg" height="28"/> <img src="./images/python.svg" height="28"/> <img src="./images/ts.svg" height="28"/> | <img src="./images/docker.svg" height="28"/> <img src="./images/redis.svg" height="28"/> <img src="./images/jenkins.png" height="28"/> | <img src="./images/oracle.svg" height="28"/>
+<img src="./images/angular.png" height="28"/> <img src="./images/vue.png" height="25"/> | <img src="./images/spring.png" height="28"/> <img src="./images/java.svg" height="28"/> <img src="./images/python.svg" height="28"/> <img src="./images/ts.svg" height="28"/> | <img src="./images/docker.svg" height="28"/> <img src="./images/redis.svg" height="28"/> <img src="./images/jenkins.png" height="28"/> <img src="./images/github.png" height="28"/> | <img src="./images/oracle.svg" height="28"/>
 
 
 
