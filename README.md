@@ -47,40 +47,40 @@
     <td align="center">
       <h3>Frontend</h3>
       <div>
-        <img src="assets/icons/angular.png" alt="Angular" width="40" height="40"/>
-        <img src="assets/icons/react.svg" alt="React" width="40" height="40"/>
-        <img src="assets/icons/vue.png" alt="Vue" width="36" height="36"/>
-        <img src="assets/icons/html.png" alt="Html" width="36" height="36"/>
-        <img src="assets/icons/sass.png" alt="Sass" width="36" height="36"/>
+        <img src="assets/icons/angular.png" alt="Angular" width="30" height="30"/>
+        <img src="assets/icons/react.svg" alt="React" width="30" height="30"/>
+        <img src="assets/icons/vue.png" alt="Vue" width="30" height="30"/>
+        <img src="assets/icons/html.png" alt="Html" width="30" height="30"/>
+        <img src="assets/icons/sass.png" alt="Sass" width="30" height="30"/>
       </div>
     </td>
     <td align="center">
       <h3>Backend</h3>
       <div>
-        <img src="assets/icons/spring.png" alt="java" width="40" height="40"/>
-        <img src="assets/icons/python.svg" alt="python" width="40" height="40"/>
-        <img src="assets/icons/js.svg" alt="javascript" width="40" height="40"/>
-        <img src="assets/icons/ts.svg" alt="typescript" width="40" height="40"/>
+        <img src="assets/icons/spring.png" alt="java" width="30" height="30"/>
+        <img src="assets/icons/python.svg" alt="python" width="30" height="30"/>
+        <img src="assets/icons/js.svg" alt="javascript" width="30" height="30"/>
+        <img src="assets/icons/ts.svg" alt="typescript" width="30" height="30"/>
     </td>
   </tr>
   <tr>
     <td align="center">
       <h3>Databases</h3>
       <div>
-        <img src="assets/icons/posgresql.png" alt="posgresql" width="40" height="40"/>
-        <img src="assets/icons/mysql.svg" alt="mysql" width="40" height="40"/>
-        <img src="assets/icons/oracle.svg" alt="oracle" width="40" height="40"/>
-        <img src="assets/icons/mongo.png" alt="mongo" width="40" height="40"/>
+        <img src="assets/icons/posgresql.png" alt="posgresql" width="30" height="30"/>
+        <img src="assets/icons/mysql.svg" alt="mysql" width="30" height="30"/>
+        <img src="assets/icons/oracle.svg" alt="oracle" width="30" height="30"/>
+        <img src="assets/icons/mongo.png" alt="mongo" width="30" height="30"/>
       </div>
     </td>
     <td align="center">
       <h3>DevOps & Tools</h3>
       <div>
-        <img src="assets/icons/redis.svg" alt="redis" width="40" height="40"/>
-        <img src="assets/icons/jenkins.png" alt="jenkins" width="40" height="40"/>
-        <img src="assets/icons/docker.svg" alt="docker" width="40" height="40"/>
-        <img src="assets/icons/github.png" alt="github" width="40" height="40"/>
-        <img src="assets/icons/firebase.png" alt="firebase" width="40" height="40"/>
+        <img src="assets/icons/redis.svg" alt="redis" width="30" height="30"/>
+        <img src="assets/icons/jenkins.png" alt="jenkins" width="30" height="30"/>
+        <img src="assets/icons/docker.svg" alt="docker" width="30" height="30"/>
+        <img src="assets/icons/github.png" alt="github" width="30" height="30"/>
+        <img src="assets/icons/firebase.png" alt="firebase" width="30" height="30"/>
       </div>
     </td>
   </tr>
@@ -91,10 +91,10 @@
   <tr>
     <td align="center" colspan="2">
       <div>
-        <img src="assets/icons/azure.png" height="50"/>
-        <img src="assets/icons/aws.png" height="50"/>
-        <img src="assets/icons/graphql.png" height="50"/>
-        <img src="assets/icons/kafka.svg" height="50"/>
+        <img src="assets/icons/azure.png" width="40" height="40"/>
+        <img src="assets/icons/aws.png" width="40" height="40"/>
+        <img src="assets/icons/graphql.png" width="40" height="40"/>
+        <img src="assets/icons/kafka.svg" width="40" height="40"/>
       </div>
     </td>
   </tr>
