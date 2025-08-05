@@ -6,7 +6,7 @@
 
 **💻Tech stack at work:**
 
-<table align="left">
+<table align="start">
   <tr>
     <td align="center">
       <h3>Frontend</h3>
@@ -17,24 +17,24 @@
     <td align="center">
       <h3>Backend</h3>
       <div>
-        <img src="assets/icons/spring.png" height="30"/>
-        <img src="assets/icons/python.svg" height="30"/>
-        <img src="assets/icons/ts.svg" height="30"/>
+        <img src="assets/icons/spring.png" width="30" height="30"/>
+        <img src="assets/icons/python.svg" width="30" height="30"/>
+        <img src="assets/icons/ts.svg" width="30" height="30"/>
       </div>
     </td>
     <td align="center">
       <h3>Tools & DevOps</h3>
       <div>
-        <img src="assets/icons/docker.svg" height="30"/>
-        <img src="assets/icons/redis.svg" height="30"/>
-        <img src="assets/icons/jenkins.png" height="30"/>
-        <img src="assets/icons/github.png" height="30"/>
+        <img src="assets/icons/docker.svg" width="30" height="30"/>
+        <img src="assets/icons/redis.svg" width="30" height="30"/>
+        <img src="assets/icons/jenkins.png" width="30" height="30"/>
+        <img src="assets/icons/github.png" width="30" height="30"/>
       </div>
     </td>
     <td align="center">
       <h3>Database</h3>
       <div>
-        <img src="assets/icons/oracle.svg" height="30"/>
+        <img src="assets/icons/oracle.svg" width="30" height="30"/>
       </div>
     </td>
   </tr>
@@ -42,52 +42,52 @@
 
 **💻Skills**
 
-<table align="left">
+<table align="start">
   <tr>
     <td align="center">
       <h3>Frontend</h3>
       <div>
-        <img src="assets/icons/angular.png" alt="Angular" height="40"/>
-        <img src="assets/icons/react.svg" alt="React" height="40"/>
-        <img src="assets/icons/vue.png" alt="Vue" height="36"/>
-        <img src="assets/icons/html.png" alt="Html" height="36"/>
-        <img src="assets/icons/sass.png" alt="Sass" height="36"/>
+        <img src="assets/icons/angular.png" alt="Angular" width="40" height="40"/>
+        <img src="assets/icons/react.svg" alt="React" width="40" height="40"/>
+        <img src="assets/icons/vue.png" alt="Vue" width="36" height="36"/>
+        <img src="assets/icons/html.png" alt="Html" width="36" height="36"/>
+        <img src="assets/icons/sass.png" alt="Sass" width="36" height="36"/>
       </div>
     </td>
     <td align="center">
       <h3>Backend</h3>
       <div>
-        <img src="assets/icons/spring.png" alt="java" height="40"/>
-        <img src="assets/icons/python.svg" alt="python" height="40"/>
-        <img src="assets/icons/js.svg" alt="javascript" height="40"/>
-        <img src="assets/icons/ts.svg" alt="typescript" height="40"/>
+        <img src="assets/icons/spring.png" alt="java" width="40" height="40"/>
+        <img src="assets/icons/python.svg" alt="python" width="40" height="40"/>
+        <img src="assets/icons/js.svg" alt="javascript" width="40" height="40"/>
+        <img src="assets/icons/ts.svg" alt="typescript" width="40" height="40"/>
     </td>
   </tr>
   <tr>
     <td align="center">
       <h3>Databases</h3>
       <div>
-        <img src="assets/icons/posgresql.png" alt="posgresql" height="40"/>
-        <img src="assets/icons/mysql.svg" alt="mysql" height="40"/>
-        <img src="assets/icons/oracle.svg" alt="oracle" height="40"/>
-        <img src="assets/icons/mongo.png" alt="mongo" height="40"/>
+        <img src="assets/icons/posgresql.png" alt="posgresql" width="40" height="40"/>
+        <img src="assets/icons/mysql.svg" alt="mysql" width="40" height="40"/>
+        <img src="assets/icons/oracle.svg" alt="oracle" width="40" height="40"/>
+        <img src="assets/icons/mongo.png" alt="mongo" width="40" height="40"/>
       </div>
     </td>
     <td align="center">
       <h3>DevOps & Tools</h3>
       <div>
-        <img src="assets/icons/redis.svg" alt="redis" height="40"/>
-        <img src="assets/icons/jenkins.png" alt="jenkins" height="40"/>
-        <img src="assets/icons/docker.svg" alt="docker" height="40"/>
-        <img src="assets/icons/github.png" alt="github" height="40"/>
-        <img src="assets/icons/firebase.png" alt="firebase" height="40"/>
+        <img src="assets/icons/redis.svg" alt="redis" width="40" height="40"/>
+        <img src="assets/icons/jenkins.png" alt="jenkins" width="40" height="40"/>
+        <img src="assets/icons/docker.svg" alt="docker" width="40" height="40"/>
+        <img src="assets/icons/github.png" alt="github" width="40" height="40"/>
+        <img src="assets/icons/firebase.png" alt="firebase" width="40" height="40"/>
       </div>
     </td>
   </tr>
 </table>
 
 **💻Current Focus**
-<table align="left">
+<table align="start">
   <tr>
     <td align="center" colspan="2">
       <div>
@@ -99,7 +99,6 @@
     </td>
   </tr>
 </table>
-
 
 📫 Feel free to explore my projects or connect with me for collaboration or professional opportunities find all of my social media profiles and my resume on my [profile](https://armandosj.github.io/)
 
